@@ -1,0 +1,33 @@
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.csproj.ResolveComReference.cache
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.Form1.resources
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.Properties.Resources.resources
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\bin\Debug\proje.exe.config
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\bin\Debug\proje.exe
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\bin\Debug\proje.pdb
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.exe
+D:\311 Helin İlgaz\helin ilgaz\proje\proje\obj\Debug\proje.pdb
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\bin\Debug\proje.exe.config
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\bin\Debug\proje.exe
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\bin\Debug\proje.pdb
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.exe
+C:\Users\ogrenci\Desktop\helinilgaz\helin ilgaz\proje\proje\obj\Debug\proje.pdb
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\bin\Debug\proje.exe.config
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\bin\Debug\proje.exe
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\bin\Debug\proje.pdb
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.exe
+C:\Users\ogrenci\Desktop\helin ilgaz\proje\proje\obj\Debug\proje.pdb
